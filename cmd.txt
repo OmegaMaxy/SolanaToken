@@ -1,0 +1,1 @@
+spl-token update-metadata nicFDNPN8vSgpMA5oTk17TiUcve89rNQbAb3aC3c1ZV uri metadata.json
